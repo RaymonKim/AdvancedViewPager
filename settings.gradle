@@ -1,0 +1,3 @@
+include ':avp'
+include ':app'
+rootProject.name = "AdvancedViewPager"
