@@ -1,3 +1,5 @@
-include ':avp'
+include ':library'
+//include ':avp'
+
 include ':app'
 rootProject.name = "AdvancedViewPager"
